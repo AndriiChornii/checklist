@@ -1,2 +1,2 @@
 # checklist
-This is repository where I will attach my exapmples of checklists
+This is repository where I will attach my examples of checklists
