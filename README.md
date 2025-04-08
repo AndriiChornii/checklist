@@ -10,19 +10,32 @@ In the <a href="https://walkme.dog">Walkme App</a> project, I actively created t
 
 All next examples will be provided as screenshots from the Testiny platform that I desired for hodling QA documentation
 
+<p align="center"> 
+
 ## Screenshot of Checklists:
+</p>
 Here you can see how I usualy create the checklists. It's how they look in general
 ![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist1.png)
 
+
+<p align="center"> 
+
 ## Expanded checklist
+</p>
 Since testing is context-dependent, there are situations when it is appropriate to use extended checklists, as in this case.
 ![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist_expanded.png)
 
+<p align="center"> 
+
 ## e2e tests
+</p>
 I decided to add the e2e tests, as they are also created as checklists and plays very valuable part in almost every product:
 ![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist_e2e.png)
 
+<p align="center"> 
+
 ## Additional info: 
+</p>
 Also, I like to use non-atomic checklists or test cases (it means, that these artifacts can have a few expected result)
 
 For example:
