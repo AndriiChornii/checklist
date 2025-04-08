@@ -2,9 +2,11 @@
   <img src="https://img.shields.io/badge/Checklists-0C3B72?style=for-the-badge&logo=Testomatio"/>
 </p>
 
-<p>This is repository where I will attach my example of checklists</p>
+<p align="center">This is repository where I will attach my example of checklists</p>
 
+<p align="center">
 In the <a href="https://walkme.dog">Walkme App</a> project, I actively created test cases, but not always I had enough time, so, a valuable part of the app is covered by checklists
+</p>
 
 All next examples will be provided as screenshots from the Testiny platform that I as desired for hodling QA documentation
 
