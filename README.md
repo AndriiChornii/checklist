@@ -6,7 +6,7 @@
 
 In the <a href="https://walkme.dog">Walkme App</a> project, I actively created test cases, but not always I had enough time, so, a valuable part of the app is covered by checklists
 
-All next examples will be provided as screenshots from the Testiny platform that I as desired for hodling QA documentation
+All next examples will be provided as screenshots from the Testiny platform that I desired for hodling QA documentation
 
 ## Screenshot of Checklists:
 Here you can see how I usualy create the checklists. It's how they look in general
