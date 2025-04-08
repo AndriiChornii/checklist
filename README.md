@@ -9,7 +9,7 @@ In the <a href="https://walkme.dog">Walkme App</a> project, I actively created t
 All next examples will be provided as screenshots from the Testiny platform that I as desired for hodling QA documentation
 
 ## Screenshot of Checklists:
-Here you can see how I usualyy create the checklists. It's how they look in general
+Here you can see how I usualy create the checklists. It's how they look in general
 ![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist1.png)
 
 ## Expanded checklist
