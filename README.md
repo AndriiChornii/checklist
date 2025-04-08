@@ -10,15 +10,15 @@ All next examples will be provided as screenshots from the Testiny platform that
 
 ## Screenshot of Checklists:
 Here you can see how I usualyy create the checklists. It's how they look in general
-![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase1.png)
+![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist1.png)
 
 ## Expanded checklist
 Since testing is context-dependent, there are times when it is appropriate to use extended checklists, as in this case.
-![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase2.png)
+![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist_expanded.png)
 
 ## e2e tests
 I decided to add the e2e tests, as they are also created as checklists and plays very valuable part in almost every product:
-![Screenshot 1](https://github.com/AndriiChornii/test-case/blob/main/assets/TestCase3.png)
+![Screenshot 1](https://github.com/AndriiChornii/checklist/blob/main/assets/Checklist_e2e.png)
 
 ## Additional info: 
 Also, I like to use non-atomic checklists or test cases (it means, that these artifacts can have a few expected expected result)
